@@ -64,6 +64,7 @@ main {
 
 .pricing {
     color: hsl(204, 43%, 93%);
+    margin-bottom: 0;
 }
 
 .pricing span {
@@ -71,6 +72,10 @@ main {
     font-size: 2rem;
     font-weight: 700;
     margin-right: 8px;
+}
+
+.pricing--text {
+    margin-bottom: 2rem;
 }
 
 .cta {
